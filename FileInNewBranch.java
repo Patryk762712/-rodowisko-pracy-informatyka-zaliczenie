@@ -4,5 +4,6 @@ public class FileInNewBranch {
         System.out.println("First update");
         System.out.println("Second update");
         //test
+
     }
 }
