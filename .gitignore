@@ -1,0 +1,7 @@
+.idea/
+*.class
+*.jar
+/out/
+/target/
+*.log
+Thumbs.db
